@@ -1,0 +1,7 @@
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\bin\Debug\inputConverter.exe.config
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\bin\Debug\inputConverter.exe
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\bin\Debug\inputConverter.pdb
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\obj\Debug\inputConverter.csprojResolveAssemblyReference.cache
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\obj\Debug\inputConverter.csproj.CoreCompileInputs.cache
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\obj\Debug\inputConverter.exe
+C:\Users\VSk\OneDrive\MFF UK\MGR\1. ročník\Domácí úkoly\Seminář z umělé inteligence II\inputConverter\inputConverter\obj\Debug\inputConverter.pdb
